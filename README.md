@@ -78,7 +78,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"  />
+<img align="right" height="190" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"  />
 
 ###
 
@@ -102,6 +102,8 @@
 
 ###
 
-<p align="left">Thank you! 👋</p>
+<br>
+
+<h1 align="left">Thank you! 👋</h1>
 
 ###
